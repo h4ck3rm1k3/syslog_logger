@@ -1,4 +1,4 @@
-require 'syslog'
+require 'mysyslog'
 require 'logger'
 require 'syslog-formatter'
 
